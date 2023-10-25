@@ -8,4 +8,4 @@ MarkupSafe==1.0
 pytz==2018.5
 redis==4.4.4
 six==1.11.0
-Werkzeug==2.2.3
+Werkzeug==3.0.1
